@@ -69,7 +69,7 @@
   - El proyecto destacó por convertir procesos manuales en un sistema digital eficiente, mostrando a los clientes cómo la tecnología optimiza la gestión de hostales. Se creó una plataforma que centraliza la administración de todos los hostales del cliente en una sola solución. :chart_with_upwards_trend: :chart_with_upwards_trend: :chart_with_upwards_trend:
 
 
-### [Gestión de Proyectos Empresariales (Freelance) :house: :office: :house: :office: :house: :office:
+### [Gestión de Proyectos Empresariales] --> (Freelance) :house: :office: :house: :office: :house: :office:
   - Colaboración con clientes para captar y traducir sus necesidades en especificaciones precisas.
 	- Diseño, desarrollo e implementación de aplicaciones web interactivas y eficientes.
 	- Identificación y resolución de problemas técnicos para asegurar el funcionamiento continuo del sistema.
