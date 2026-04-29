@@ -7,7 +7,7 @@
 </div>
 
 
-- :mortar_board: Tengo más de 3 años de experiencia en el desarrollo de aplicaciones web, utilizando tecnologías como HTML, CSS, JavaScript, y frameworks modernos.
+- :mortar_board: Tengo más de 5 años de experiencia en el desarrollo de aplicaciones web, utilizando tecnologías como HTML, CSS, JavaScript, y frameworks modernos.
 
 - :office: Actualmente estoy trabajando de manera independiente, pero siempre disponible para trabajar con empresas con grandes objetivos.
 
